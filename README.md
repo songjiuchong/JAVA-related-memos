@@ -59,8 +59,32 @@ My Learning curve for JAVA.
 53. Login  --  Login; <br/>
 54. LoginGUI  --  LoginGUI （用户登录）; <br/>
 55. Main 2.0  --  Main 2.0; <br/>
-56.
-
+56. MultipleArgs  --  MultipleArgs; <br/>
+57. MultipleStatus3.0  --  MultipleStatus3.0; <br/>
+58. MultipleStatusCaution2.0  --  MultipleStatusCaution2.0; <br/>
+59. MVC  --  MVC; <br/>
+60. NetCtoss项目(Struts2)  --  NetCtoss项目(Struts2); <br/>
+61. Node  --  Node; <br/>
+62. Object  --  Object; <br/>
+63. ObjectArray  --  ObjectArray; <br/>
+64. PackageClass 包装类  --  PackageClass 包装类; <br/>
+65. PLSQL  --  PLSQL; <br/>
+66. PointsCards（点卡生成，查询，充值）  --  PointsCards（点卡生成，查询，充值）; <br/>
+67. PositonShift  --  PositonShift; <br/>
+68. Private Default Protected Public  --  Private Default Protected Public; <br/>
+69. Private  --  Private; <br/>
+70. PrivateBuiltMethod  --  PrivateBuiltMethod; <br/>
+71. Queue 2.0 （设置节点“连接”多个对象)   --  Queue 2.0 （设置节点“连接”多个对象); <br/>
+72. Queue_LinkedList  --  Queue_LinkedList; <br/>
+73. Queue2 玩家（vip，normal）排队  --  Queue2 （vip/normal）玩家排队; <br/>
+74. ReferToArray  --  ReferToArray; <br/>
+75. Reflection  --  Reflection; <br/>
+76. RefString  --  RefString; <br/>
+77. RegularExpression 正则表达式  --  RegularExpression 正则表达式; <br/>
+78. SaftyGamer（Map 运用）  --  SaftyGamer（Map 运用; <br/>
+79. SanMu(三目运算)  --  SanMu(三目运算); <br/>
+80. Scanner类的next and nextLine混合运用  --  Scanner类的next and nextLine混合运用; <br/>
+81. 
 
 
 
